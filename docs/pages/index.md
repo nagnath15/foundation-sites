@@ -1,5 +1,5 @@
 ---
-title: Foundation for Sites
+title: Foundation for Sites By Nagnath Mungade
 description: We built Foundation for Sites to be the most advanced responsive front-end framework in the world.
 tags:
   - index
@@ -14,7 +14,7 @@ It's also possible to manually install Foundation for Sites into your project th
 
 <a href="installation.html" class="large button">Install Foundation for Sites</a>
 
-### Looking for Foundation 5?
+### Looking for Foundation 5? -Nagnath Mungade
 We're still supporting Foundation 5 for those who don't want to take the leap into the future with us. You can view the docs, download a package or visit the Github page.
 
 <div class="button-group">
